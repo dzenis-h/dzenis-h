@@ -1,7 +1,7 @@
-<h2 align="center">Hi! I'm Dženis 👋</h2>
-
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> **About me**
-
+<div align="center">
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
+**About me**
+</div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;First+Principles+Thinker,;Driven+Individual,;and,+a+Human+Being;"></a>
 </p>
