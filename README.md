@@ -3,7 +3,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thank+You+For+Visiting+My+GitHub+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;Lifelong+Learner+and+a+First+Principles+Thinker,;Driven+Individual+With+a+Animal+Ambition,;...+and+last+but+not+least+I+am+a+Human+Being;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thans+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;Lifelong+Learner+and+a+First+Principles+Thinker,;Driven+Individual+With+a+Animal+Ambition,;...+and+,+last+but+not+least+,+I+am+a+Human+Being;"></a>
 </p>
 
 <h4 align="center">If you would like to know more about me, may I suggest visiting the [About](https://www.dzenis.tech/about) section of my personal website.</h4>
@@ -18,7 +18,7 @@
 📧 Contact ➖ contact.dzenis.h@gmail.com (for a general-purpose contact)
 📧 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)
 
-🔗 Personnal website  [Dzenis H.](https://www.dzenis.tech)
+🔗 Personnal website  ![Dzenis H.](https://www.dzenis.tech)
 
 </div><br>
 
@@ -67,9 +67,14 @@
 ![Views](https://komarev.com/ghpvc/?username=dzenis-h&label=Profile+visitors:)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzenis-h&layout=compact&theme=dark)]([https://github.com/jrmydix](https://github.com/dzenis-h))
+  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dzenis-h&count_private=true&show_icons=true&theme=dark&hide=issues)
 
+  
+  
 </div><br>
 
 ---
