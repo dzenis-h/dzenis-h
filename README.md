@@ -1,9 +1,10 @@
 <div align="center">
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> About me
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
+ <h3> About me</hr>
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;First+Principles+Thinker,;Driven+Individual,;and,+a+Human+Being;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,I'm+Dženis;Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;First+Principles+Thinker,;Driven+Individual,;and,+a+Human+Being.;"></a>
 </p>
 
 If you would like to know more about me, may I suggest visiting the [About](https://www.dzenis.tech/about) section of my personal website.
@@ -11,14 +12,24 @@ If you would like to know more about me, may I suggest visiting the [About](http
 <br><br><h2 align="center">Contact:</h2><br>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/dzenis-h"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://github.com/dzenis-h"><img src="https://img.shields.io/badge/-Github-f0f6fc?style=for-the-badge&logo=github&logoColor=fff&labelColor=282828"></a>
 
-<br><br>
 📧 Contact ➖ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 📧 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)
 
 🔗 [Personnal website](https://www.dzenis.tech)
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dzenis-h//">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/dzenis-h">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/8146571/dzenis-h?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+					<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/BiggaHd">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+</p>
 
 </div><br>
 
@@ -58,18 +69,19 @@ If you would like to know more about me, may I suggest visiting the [About](http
 </div>
 </p><br>
 
-<hr>
-
-<br><h2 align="center">Stats:</h2><br>
+##
 
 <div align="center">
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
 ![Views](https://komarev.com/ghpvc/?username=dzenis-h&label=Profile+visitors:)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzenis-h&layout=compact&theme=dark)]([https://github.com/jrmydix](https://github.com/dzenis-h))
   
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dzenis-h&count_private=true&show_icons=true&theme=dark&hide=issues)
 
