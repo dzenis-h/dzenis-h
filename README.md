@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;Autodidact+and+a+First+Principles+Thinker,;Driven+Individual,;and,+a+Human+Being;"></a>
 </p>
 
-<h4 align="center">If you would like to know more about me, may I suggest visiting the ![About](https://www.dzenis.tech/about) section of my personal website.</h4>
+If you would like to know more about me, may I suggest visiting the ![About](https://www.dzenis.tech/about) section of my personal website.
 
 <br><br><h2 align="center">Contact:</h2><br>
 
