@@ -54,6 +54,12 @@
 23. `<img src="https://img.shields.io/badge/TypeScript-007ACC.svg" alt="TypeScript Badge">`
 24. `<img src="https://img.shields.io/badge/React_Native-20232A.svg" alt="React Native Badge">`
 25. `<img src="https://img.shields.io/badge/Python-3776AB.svg" alt="Python Badge">`
+  
+Sure! Here is a comma-separated list with the HTML `<img />` tags for the badges you requested from Shields.io without additional query parameters or special styling:
+
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg" alt="HTML5 Badge">, <img src="https://img.shields.io/badge/CSS3-%231572B6.svg" alt="CSS3 Badge">, <img src="https://img.shields.io/badge/JavaScript-%23323330.svg" alt="JavaScript Badge">, <img src="https://img.shields.io/badge/React-%2320232a.svg" alt="ReactJS Badge">, <img src="https://img.shields.io/badge/Redux-%23593d88.svg" alt="Redux Badge">, <img src="https://img.shields.io/badge/React_Testing_Library-20232A.svg" alt="React Testing Library Badge">, <imgsrc="https://img.shields.io/badge/Webpack-%238DD6F9.svg"alt="Webpack Badge">, <imgsrc="https://img.shields.io/badge/Jest-C21325"alt="Jest Badge">, <imgsrc="https://img.shields.io/badge/-GraphQL-E10098"alt="GraphQL Badge">, <img src="https://img.shields.io/badge/Node.js-%2343853D.svg" alt="NodeJS Badge">, <img src="https://img.shields.io/badge/Express.js-404D59" alt="<EUGPSCoordinates>xpress Badge">, <img src="https://img.shields.io/badge/Sails.js-1a202c" alt="<EUGPSCoordinates>ailsJS Badge">|, <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg" alt="<EUGPSCoordinates>ongoDB Badge">, <img src="https://img.shields.io/badge/Mongoose-880000"alt="<EUGPSCoordinates>ongoose Badge">|, <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg"alt="<EUGPSCoordinates>ootstrap Badge">|, <img src="https://img.shields.io/badge/Materialize_CSS-ee6e73"alt="<EUGPSCoordinates>aterializeCSS Badge">|, <img src="https://img.shields.io/badge/Socket.io-010101"alt="<EUGPSCoordinates>ocket.IO Badge">|, <img src="https://img.shields.io/badge/Lodash-3498db"alt="<EUGPSCoordinates>odash Badge">|, <img src="https://img.shields.io/badge/Google_Cloud-4285F4"alt="<EUGPSCoordinates>CP(Google Cloud Platform) Badge">|, <img src="https://img.shields.io/badge/Heroku-430098"alt="<EUGPSCoordinates>erokuBadge">|, <img src="https://img.shields.io/badge/EJS-2f2f2f"alt="<EUGPSCoordinates>EJS Badge">|, <img src="https://img.shields.io/badge/Handlebars-f0772b"alt="<EUGPSCoordinates>HBS (Handlebars) Badge">
+
+Is there anything else you would like to know?
 
 </div>
 </p><br>
