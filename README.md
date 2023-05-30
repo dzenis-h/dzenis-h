@@ -15,10 +15,10 @@ If you would like to know more about me, may I suggest visiting the [About](http
 <a href="https://github.com/dzenis-h"><img src="https://img.shields.io/badge/-Github-f0f6fc?style=for-the-badge&logo=github&logoColor=fff&labelColor=282828"></a>
 
 <br><br>
-📧 Contact ➖ contact.dzenis.h@gmail.com (for a general-purpose contact)
+📧 Contact ➖ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 📧 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)
 
-🔗 Personnal website  ![Dzenis H.](https://www.dzenis.tech)
+🔗 [Personnal website](https://www.dzenis.tech)
 
 </div><br>
 
