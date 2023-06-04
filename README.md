@@ -17,7 +17,7 @@ If you would like to know more about me, may I suggest visiting the [About](http
 <div align="">
 
 💌 Contact ➖➖➖➖➖➖➖ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
-📩 Development  ➖➖➖➖ developer.dzenis@icloud.com (for a specific development-related request)
+📩 Development ➖➖➖➖➖➖➖ developer.dzenis@icloud.com (for a specific development-related request)
 
 <p align="center">
 
