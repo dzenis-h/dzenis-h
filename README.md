@@ -15,7 +15,6 @@ If you would like to know more about me, may I suggest visiting the [About](http
 
 
 <br><br><h2 align="center">Contact:</h2><br>
-
 <p align="center">
 <div align="center"  class="icons-social" style="margin-left: 10px;">
 <a style="margin-left: 10px;" target="_blank" href="https://www.dzenis.tech" >
