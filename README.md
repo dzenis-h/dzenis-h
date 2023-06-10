@@ -14,13 +14,7 @@ If you would like to know more about me, may I suggest visiting the [About](http
 
 <br><br><h2 align="center">Contact:</h2><br>
 
-<div align="">
-
-💌 Contact ➖➖➖➖➖➖➖➖➖ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
-📩 Development ➖➖➖➖➖➖➖ developer.dzenis@icloud.com (for a specific development-related request)
-
 <p align="center">
-
  <div align="center"  class="icons-social" style="margin-left: 10px;">
  <a style="margin-left: 10px;" target="_blank" href="https://www.dzenis.tech" >
 			<img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png"></a>
@@ -33,6 +27,9 @@ If you would like to know more about me, may I suggest visiting the [About](http
 					<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/BiggaHd">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 			
+💌 Contact me ➖ 
+contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
+📩 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)
 			
 </p>
 
