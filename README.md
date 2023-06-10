@@ -1,8 +1,7 @@
 ---
-
 <div align="center">
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
- <h3> About me</hr>
+ <h3> About me</h3>
 </div>
 
 <p align="center">
@@ -15,21 +14,23 @@ If you would like to know more about me, may I suggest visiting the [About](http
 
 
 <br><br><h2 align="center">Contact:</h2><br>
-<p align="center">
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-<a style="margin-left: 10px;" target="_blank" href="https://www.dzenis.tech" >
-<img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png"></a>
-<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dzenis-h//">
-<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://github.com/dzenis-h">
-<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/8146571/dzenis-h?tab=profile">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/BiggaHd">
-<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-💌 Contact me ➖  contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
-📩 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)
 
+<p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <a style="margin-left: 10px;" target="_blank" href="https://www.dzenis.tech" >
+			<img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png"></a>
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dzenis-h//">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/dzenis-h">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/8146571/dzenis-h?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+					<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/BiggaHd">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+			
+💌 Contact me ➖ 
+contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
+📩 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)
 			
 </p>
 
@@ -91,4 +92,3 @@ If you would like to know more about me, may I suggest visiting the [About](http
 </div><br>
 
 ---
-
