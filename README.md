@@ -9,7 +9,7 @@
 </p>
 
 <h4 align="center">
-	If you would like to know more about me, may I suggest visiting the [About](https://www.dzenis.tech/about) section of my personal website. 
+	If you would like to know more about me, may I suggest visiting the ![About](https://www.dzenis.tech/about) section of my personal website. 
 </h4>
 
 
