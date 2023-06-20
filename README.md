@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,I'm+Dženis;Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;First+Principles+Thinker,;Driven+Individual,;and,+a+Human+Being.;"></a>
 </p>
 
-If you would like to know more about me, may I suggest visiting the [About](https://dzenis.tech/about) section of my personal website? 
+If you would like to know more about me, may I suggest visiting the [About](https://dzenis.tech/about) section of my personal website? <img src="https://stackoverflow.com/users/flair/8146571.png?theme=dark&showIcon=true&showName=true&showBadges=true&showRep=true&showPosts=true&stackApps=true"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -21,6 +21,8 @@ If you would like to know more about me, may I suggest visiting the [About](http
 [![GitHub Follow](https://img.shields.io/badge/-Follow-black?style=social&logo=twitter&link=https://github.com/dzenis-h)](https://twitter.com/biggahd)	
 
 </h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
@@ -44,7 +46,7 @@ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 </div><br>
 
 <br><h2 align="center">Skills:</h2><br>
-<img src="https://stackoverflow.com/users/flair/8146571.png?theme=dark&showIcon=true&showName=true&showBadges=true&showRep=true&showPosts=true&stackApps=true"/><p>
+<p>
 <div align="center">
   
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg" alt="HTML5 Badge">
