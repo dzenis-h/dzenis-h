@@ -46,7 +46,9 @@ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 
 </div><br>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+</div>
 
 <br><h2 align="center">Skills:</h2><br>
 <img src="https://stackoverflow.com/users/flair/8146571.png?theme=dark&showIcon=true&showName=true&showBadges=true&showRep=true&showPosts=true&stackApps=true"/><p>
