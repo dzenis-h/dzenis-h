@@ -49,8 +49,7 @@ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br><h2 align="center">Skills:</h2><br>
-
-<p>
+<img src="https://stackoverflow.com/users/flair/8146571.png?theme=dark&showIcon=true&showName=true&showBadges=true&showRep=true&showPosts=true&stackApps=true"/><p>
 <div align="center">
   
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg" alt="HTML5 Badge">
