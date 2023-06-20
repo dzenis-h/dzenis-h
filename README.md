@@ -8,13 +8,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,I'm+Dženis;Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Full-stack+Developer,;Technophile+and+a+AI+Enthusiast,;First+Principles+Thinker,;Driven+Individual,;and,+a+Human+Being.;"></a>
 </p>
 
-If you would like to know more about me, may I suggest visiting the [About](https://dzenis.tech/about) section of my personal website? <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-
+If you would like to know more about me, may I suggest visiting the [About](https://dzenis.tech/about) section of my personal website? 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 
 <br><br><h2 align="center">Contact:</h2><br>
 
@@ -82,7 +78,6 @@ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -93,8 +88,6 @@ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzenis-h&layout=compact&theme=dark)]([https://github.com/jrmydix](https://github.com/dzenis-h))
   
-
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dzenis-h&count_private=true&show_icons=true&theme=dark&hide=issues)
 
 </div><br>
