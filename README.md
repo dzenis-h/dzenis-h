@@ -82,10 +82,11 @@ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 <div align="center">
 
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=dzenis-h&column=8&margin-w=15&margin-h=15" alt="dzenis-h"></a> 
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
+<div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
