@@ -35,9 +35,7 @@ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </div>
 
-
-
-</div><br>
+</div>
 
 <br><h2 align="center">Skills:</h2><br>
 <p>
