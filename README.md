@@ -27,10 +27,7 @@ If you would like to know more about me, may I suggest visiting the [About](http
 
 <p align="center">			
 	 
-💌 Contact me ➖ 
-<div align="center"  class="icons-social" style="margin-left: 10px;">
- 	<a style="margin-left: 10px;" target="_blank" href="https://www.dzenis.tech" >
-		<img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png">dzenis.tech</a> 
+💌 Contact me: 
 contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 📩 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)		
 </p>
