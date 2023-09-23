@@ -35,10 +35,10 @@ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </div>
 
-</div>
+
 
 <br><h2 align="center">Skills:</h2><br>
-<p>
+<p></div>
 <div align="center">
   
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg" alt="HTML5 Badge">
