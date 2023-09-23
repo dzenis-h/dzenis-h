@@ -19,7 +19,7 @@ If you would like to know more about me, may I suggest visiting the [About](http
 	
 [![LinkedIn Follow](https://img.shields.io/badge/-Follow-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/dzenis-h/)](https://www.linkedin.com/in/dzenis-h/)
 [![GitHub Follow](https://img.shields.io/badge/-Follow-black?style=social&logo=github&link=https://github.com/dzenis-h)](https://github.com/dzenis-h)
-[![GitHub Follow](https://img.shields.io/badge/-Follow-black?style=social&logo=twitter&link=https://github.com/dzenis-h)](https://twitter.com/biggahd)	
+[![GitHub Follow](https://img.shields.io/badge/-Follow-black?style=social&logo=x&link=https://github.com/dzenis-h)](https://twitter.com/biggahd)	
 
 </h3>
 
