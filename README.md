@@ -36,7 +36,6 @@ If you would like to know more about me, may I suggest visiting the [About](http
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/8146571/dzenis-h?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 					<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/BiggaHd">
-			<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Ficons_8&psig=AOvVaw3qFj8gY4eKw9XFjDqM9z2L&ust=1695551953522000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJj2m7HFwIEDFQAAAAAdAAAAABAE" ></a>
 			
 	 
 💌 Contact me ➖ 
