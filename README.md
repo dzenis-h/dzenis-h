@@ -19,16 +19,13 @@ If you would like to know more about me, may I suggest visiting the [About](http
 [![GitHub Follow](https://img.shields.io/badge/-Follow-black?style=social&logo=github&link=https://github.com/dzenis-h)](https://github.com/dzenis-h)
 [![GitHub Follow](https://img.shields.io/badge/-Follow-black?style=social&logo=x&link=https://github.com/dzenis-h)](https://twitter.com/biggahd) <br />
 
-<img src="https://stackoverflow.com/users/flair/8146571.png?theme=dark&showIcon=true&showName=true&showBadges=true&showRep=true&showPosts=true&stackApps=true"/>
+<img src="https://stackoverflow.com/users/flair/8146571.png?theme=dark&showIcon=true&showName=true&showBadges=true&showRep=true&showPosts=true&stackApps=true"/>		
 
-<p align="center">			
-	 
 💌 Contact me: 
 contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
-📩 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)		
-</p>
-
+📩 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)
 </h3>
+
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
