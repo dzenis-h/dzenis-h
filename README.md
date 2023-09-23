@@ -25,20 +25,11 @@ If you would like to know more about me, may I suggest visiting the [About](http
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
- <a style="margin-left: 10px;" target="_blank" href="https://www.dzenis.tech" >
-			<img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png"></a>
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dzenis-h//">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/dzenis-h">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/8146571/dzenis-h?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-					<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/BiggaHd">
-			
+<p align="center">			
 	 
-💌 Contact me ➖ 
+💌 Contact me ➖ <div align="center"  class="icons-social" style="margin-left: 10px;">
+ 	<a style="margin-left: 10px;" target="_blank" href="https://www.dzenis.tech" >
+		<img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png"></a>
 contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 📩 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)		
 </p>
