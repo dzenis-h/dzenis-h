@@ -21,7 +21,7 @@ If you would like to know more about me, may I suggest visiting the [About](http
 
 <img src="https://stackoverflow.com/users/flair/8146571.png?theme=dark&showIcon=true&showName=true&showBadges=true&showRep=true&showPosts=true&stackApps=true"/>		
 
-<p>
+<p align="left">
 	
 💌 Contact me: 
 contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
