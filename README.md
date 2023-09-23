@@ -23,7 +23,7 @@ If you would like to know more about me, may I suggest visiting the [About](http
 
 </h3>
 
-<p align="left">
+<p align="center">
 	
 💌 Contact me: 
 contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
