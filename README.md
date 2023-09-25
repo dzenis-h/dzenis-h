@@ -39,7 +39,7 @@ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 
 
 <br><h2 align="center">Skills:</h2><br>
-<p></div>
++</div>
 <div align="center">
   
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg" alt="HTML5 Badge">
@@ -69,7 +69,6 @@ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
 <img src="https://img.shields.io/badge/Python-3776AB.svg" alt="Python Badge">
 
 </div>
-</p>
 
 <br>
 
